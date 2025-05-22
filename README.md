@@ -1,7 +1,6 @@
 <h1>Riki Itokazu</h1>
 <p>
   <ul>
-    <li>Software Engineer Intern @ athenahealth</li>
     <li>Computer Science @ Boston College '26</li>
   </ul>
 </p>
